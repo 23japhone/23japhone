@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 Here is my recent Github's performance:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=23japhone)
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=23japhone)
 
 Here are my programming language which I usually use:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=23japhone)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=23japhone)
 
 
 - 🔭 I’m currently working on Huawei Technology Company, AI Engineer.
