@@ -6,7 +6,7 @@ Here is my recent Github's performance:
 
 Here are my programming language which I usually use:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=23japhone&layout=donut&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=23japhone&layout=donut&show_icons=true&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are my basic infomation:
 - 🔭 I’m currently working on Huawei Technology Company, AI Engineer.
