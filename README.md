@@ -12,7 +12,6 @@ Here are my programming language which I usually use:
 - 🔭 I’m currently working on Huawei Technology Company, AI Engineer.
 - 🌱 I’m currently learning LLM and agents.
 - 👯 I’m looking to collaborate on MIT or Bytedance.
-<!-- - 🤔 I’m looking for help with -->
 - 💬 Ask me about LLM
 - 📫 How to reach me: japhonehou@gmail.com
 - 😄 Pronouns: japhone
