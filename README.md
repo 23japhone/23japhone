@@ -2,7 +2,7 @@
 
 Here is my recent Github's performance:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=23japhone&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=23japhone&show_icons=true&theme=radical)
 
 Here are my programming language which I usually use:
 
