@@ -1,4 +1,4 @@
-## Hi there japhone's github👋
+## Hi there Zhipeng Hou's github👋
 
 Here is my recent Github's performance:
 
